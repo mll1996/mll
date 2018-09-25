@@ -1,6 +1,27 @@
-git status,git log , git reset --hard HEAD^
-git add. ,git commit -m , git push
-git clone
-git checkout -- file
+git status 查看状态
+
+git log  查看提交记录
+
+git reset --hard HEAD^ 版本回退
+
+git add. 添加 到暂存区
+
+git commit -m 提交到当前分支
+
+git push 上传到远程库
+
+git clone 从远程库下载
+
+git checkout -- file 撤销修改
 
 git checkout -b dev 创建并切换分支 
+
+git branch 查看分支
+
+git branch <name> 创建分支
+
+git checkout <name> 切换分支
+
+git merge <name> 合并某分支到当前分支
+
+git branch -d <name> 删除分支
