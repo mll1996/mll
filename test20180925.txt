@@ -2,3 +2,5 @@ git status,git log , git reset --hard HEAD^
 git add. ,git commit -m , git push
 git clone
 git checkout -- file
+
+git checkout -b dev 创建并切换分支 
