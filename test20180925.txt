@@ -1,3 +1,4 @@
 git status,git log , git reset --hard HEAD^
 git add. ,git commit -m , git push
 git clone
+git checkout -- file
