@@ -3,3 +3,13 @@
 Creating a new branch is quick and simple 
 
 分支管理策略
+
+git stash 保存工作现场
+
+git stash list 查看stash 列表
+
+git stash apply 恢复工作现场
+
+git stash drop 删除stash内容
+
+git stash pop 恢复工作现场并删除stash内容
